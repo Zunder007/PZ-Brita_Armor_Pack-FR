@@ -1,0 +1,6 @@
+Recipes_FR = {
+	Recipe_Use_PVS15_Harness = "Utiliser les Lunettes de vision nocturne AN PVS-15 avec harnais",
+	Recipe_Use_PVS15_with_Mount = "Utiliser les Lunettes de vision nocturne AN PVS-15",
+	Recipe_Use_NV18_Harness = "Utiliser les Lunettes de vision nocturne GPNVG-18 avec harnais",
+	Recipe_Use_NV18_with_Mount = "Utiliser les Lunettes de vision nocturne GPNVG-18",
+}
