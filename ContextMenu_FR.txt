@@ -1,0 +1,6 @@
+ContextMenu_FR = {
+	ContextMenu_Winter_Jacket_Heavy_ON = "Relever la Capuche",
+	ContextMenu_Winter_Jacket_Heavy_Back = "Abaisser la Capuche",
+
+	ContextMenu_Wool_Stocking_Mismatch = "Dépareiller les Bas",
+}
