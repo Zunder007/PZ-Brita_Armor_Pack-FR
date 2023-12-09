@@ -4,4 +4,8 @@ ContextMenu_FR = {
 	ContextMenu_Winter_Jacket_Heavy = "Abaisser la Capuche",
 
 	ContextMenu_Wool_Stocking_Mismatch = "Dépareiller les Bas",
+	ContextMenu_Wool_Stocking_Half = "Mettre un Bas sur deux",
+	ContextMenu_Wool_Stocking_Ripped = "Déchirer les Bas",
+	ContextMenu_Wool_Stocking = "Mettre les Bas",
+	ContextMenu_Wool_Stocking_Below = "Mettre les Bas en-dessous des genoux",
 }
