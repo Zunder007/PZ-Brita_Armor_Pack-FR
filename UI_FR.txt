@@ -1,0 +1,5 @@
+UI_FR = {
+	UI_ClothingType_RH93KneeArmor = "Genouillères",
+	UI_ClothingType_RH93ElbowArmor = "Coudières",
+	UI_ClothingType_RH93FullArmor = "Armure complète",
+}
