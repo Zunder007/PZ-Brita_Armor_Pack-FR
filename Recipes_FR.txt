@@ -1,8 +1,6 @@
 Recipes_FR = {
-
-	Recipe_Use_PVS15_Harness = "Installer le harnais",
-	Recipe_Use_PVS15_with_Mount = "Retirer le harnais",
-	Recipe_Use_NV18_Harness = "Installer le harnais",
-	Recipe_Use_NV18_with_Mount = "Retirer le harnais",
-
+	Use NV18_Harness = "Installer le harnais",
+	Use NV18_with_Mount = "Retirer le harnais",
+	Use PVS15_Harness = "Installer le harnais",
+	Use PVS15_with_Mount = "Retirer le harnais",
 }
